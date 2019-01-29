@@ -5,30 +5,31 @@ The main goal of this system is to develop a prototype of a HomeAway application
 
 Technologies:
 ---------------
-Domain        | Technologies
-_____________ | ____________
-Front-end Framework	      | React.js
-Back-end	                | Node.js
-Front-end Web Framework	  | Bootstrap, React-bootstrap
-Database	                | MySql
-Web Framework for Node.js	| Express.js
-Load Testing	            | Jmeter
-API Testing	              | Mocha
+
+Domain	 | Technology
+-------- | -----------
+Front End | React JS / Redux
+Back End | Node JS
+UI	| Bootstrap, React Bootstrap, Material UI
+Database | MySQL
+Authentication | 	bcrypt
+Load Testing | 	JMeter
+API Testing | Mocha
 
 Features of the System
 -----------------------
 
 Basic Users functionalities:
-•	Sign up new user (at least first name, last name, Email and password)
-•	Sign in existing user (Encryption using Bcrypt)
-•	Sign out.
-•	Sign Up with fields - first name, last name, Email and password.
-•	Update profile of the user (Profile Image, Name, Email, Phone Number, About Me, City, Country, Company, School, Hometown, Languages, Gender) 
-•	Owner can post property (Property Location, Details, Booking Options, Photos, Pricing, Amenities, Availability) 
-•	User can search for the property based on the place, start date, end date, guests.
-•	User can look at all the listed properties and book a property
-•	Travelers Dashboard – which tracks all the booked properties.
-•	Owners Dashboard – which tracks all the properties listed by the owner and all track all the properties which are booked by the travelers.
+1. Sign up new user (at least first name, last name, Email and password)
+2. Sign in existing user (Encryption using Bcrypt)
+3. Sign out.
+4. Sign Up with fields - first name, last name, Email and password.
+5. Update profile of the user (Profile Image, Name, Email, Phone Number, About Me, City, Country, Company, School, Hometown, Languages, Gender) 
+6. Owner can post property (Property Location, Details, Booking Options, Photos, Pricing, Amenities, Availability) 
+7. User can search for the property based on the place, start date, end date, guests.
+8. User can look at all the listed properties and book a property
+9. Travelers Dashboard – which tracks all the booked properties.
+10. Owners Dashboard – which tracks all the properties listed by the owner and all track all the properties which are booked by the travelers.
 
 Getting Started
 -----------------
