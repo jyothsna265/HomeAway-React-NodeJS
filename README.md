@@ -5,13 +5,15 @@ The main goal of this system is to develop a prototype of a HomeAway application
 
 Technologies:
 ---------------
-Front-end Framework	      - React.js
-Back-end	                - Node.js
-Front-end Web Framework	  - Bootstrap, React-bootstrap
-Database	                - MySql
-Web Framework for Node.js	- Express.js
-Load Testing	            - Jmeter
-API Testing	              - Mocha
+Domain        | Technologies
+_____________ | ____________
+Front-end Framework	      | React.js
+Back-end	                | Node.js
+Front-end Web Framework	  | Bootstrap, React-bootstrap
+Database	                | MySql
+Web Framework for Node.js	| Express.js
+Load Testing	            | Jmeter
+API Testing	              | Mocha
 
 Features of the System
 -----------------------
@@ -37,7 +39,11 @@ Setup
 
 Install ReactJS
 -----------------
-On the terminal: npm install -g create-react-app, Install Node.js, if you haven't already. Install its dependencies. Follow the steps on the terminal to start the servers:
+On the terminal:
+1. npm install -g create-react-app
+2. Install Node.js, if you haven't already. Install its dependencies. 
+
+Follow the steps on the terminal to start the servers:
 
 Back-end server
 ----------------
