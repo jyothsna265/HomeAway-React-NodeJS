@@ -1,0 +1,55 @@
+.travdash-sec-div {
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.travdash-sec-div h1 {
+    font-size: 36px;
+    line-height: 2.5rem;
+    margin-bottom: 30px;
+    font-family: Lato,Roboto,Arial,Helvetica Neue,Helvetica,sans-serif;
+    color: #323f4d;
+}
+.travdash-sec-div h2 {
+    font-size: 24px;
+    font-family: Lato,Roboto,Arial,Helvetica Neue,Helvetica,sans-serif;
+    color: grey;
+    line-height: 2rem;
+}
+.travdash-third-div {
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.travdash-row1 {
+    min-height: 78px;
+    background: white;
+    border: 1px solid grey;
+}
+.travdash-dropdown1 {
+    padding-top: 25px;
+    padding-left: 10px;
+}
+.travdash-dropdown2 {
+    padding-top: 25px;
+    padding-left: 10px;
+}
+.travdash-nav-btn {
+    border-radius: 100px;
+    border-color: 1px solid grey;
+    padding: 10px 10px 10px 10px;
+    width: 100%;
+    margin-top: 18px;
+    font-size: 12px;
+}
+.travdash-logo-col2 {
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.travdash-logo-col1 {
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.travdash-link {
+    font-size: 12px;
+    padding-top: 29px;
+}
